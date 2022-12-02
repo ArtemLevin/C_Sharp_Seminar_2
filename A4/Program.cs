@@ -10,29 +10,18 @@ Console.Write ("Enter the first number: ");
 int N1 = int.Parse(Console.ReadLine()!);
 
 
-if (N1%7 == 0 )
+if (N1%7 == 0 && N1%23 == 0)
 {
-    Console.WriteLine ($"Число {N1} кратно числу 7 ");
+    Console.WriteLine ("-----> да");
 
     // Console.Write ("Число" + N1 +  "кратно числу" + N2 "); это то же самое, что и выше, но длиннее
 }
-else
+
+else 
 {
-    Console.WriteLine ($"Число {N1} некратно числу 7 ");
+    Console.WriteLine ("----> нет ");
 }
 
-
-
-if (N1%23 == 0)
-{
-    Console.Write ($"Число {N1} кратно числу 23 ");
-
-    // Console.Write ("Число" + N1 +  "кратно числу" + N2 "); это то же самое, что и выше, но длиннее
-}
-else
-{
-    Console.Write ($"Число {N1} некратно числу 23 ");
-}
 
 
 
