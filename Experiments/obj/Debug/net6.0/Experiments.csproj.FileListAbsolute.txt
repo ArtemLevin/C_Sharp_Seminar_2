@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar2\Experiments\bin\Debug\net6.0\Experiments.exe
+C:\Users\PC\Desktop\Seminar2\Experiments\bin\Debug\net6.0\Experiments.deps.json
+C:\Users\PC\Desktop\Seminar2\Experiments\bin\Debug\net6.0\Experiments.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar2\Experiments\bin\Debug\net6.0\Experiments.dll
+C:\Users\PC\Desktop\Seminar2\Experiments\bin\Debug\net6.0\Experiments.pdb
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.dll
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\refint\Experiments.dll
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.pdb
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\Experiments.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar2\Experiments\obj\Debug\net6.0\ref\Experiments.dll

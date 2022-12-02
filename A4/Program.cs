@@ -10,7 +10,7 @@ Console.Write ("Enter the first number: ");
 int N1 = int.Parse(Console.ReadLine()!);
 
 
-if (N1%7 == 0)
+if (N1%7 == 0 )
 {
     Console.WriteLine ($"Число {N1} кратно числу 7 ");
 
@@ -33,4 +33,6 @@ else
 {
     Console.Write ($"Число {N1} некратно числу 23 ");
 }
+
+
 
