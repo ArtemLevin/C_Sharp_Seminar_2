@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar2\A3\bin\Debug\net6.0\A3.exe
+C:\Users\PC\Desktop\Seminar2\A3\bin\Debug\net6.0\A3.deps.json
+C:\Users\PC\Desktop\Seminar2\A3\bin\Debug\net6.0\A3.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar2\A3\bin\Debug\net6.0\A3.dll
+C:\Users\PC\Desktop\Seminar2\A3\bin\Debug\net6.0\A3.pdb
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.dll
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\refint\A3.dll
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.pdb
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\A3.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar2\A3\obj\Debug\net6.0\ref\A3.dll
